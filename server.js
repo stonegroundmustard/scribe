@@ -1,7 +1,7 @@
 const express = require("express");
 
-const homeRoutes = require("../module_11/routes/homeroutes");
-const apiRoutes = require("../module_11/routes/apiRoutes");
+const homeRoutes = require("../scribe/routes/homeroutes");
+const apiRoutes = require("../scribe/routes/apiRoutes");
 
 const app = express();
 
